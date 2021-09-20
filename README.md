@@ -1,1 +1,1 @@
-# kafka-with-data-twiter-slaticsearch
+# kafka-with-data-twiter-slasticsearch
